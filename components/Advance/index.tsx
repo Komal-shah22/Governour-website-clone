@@ -17,7 +17,8 @@ const Advance = () => {
       <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
         <div><Image src={airtificailintelligence} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
         <div className='px-4 flex justify-center items-center h-[70px]'>
-          <text >Airtificial Intelligence</text>
+          <span>Artificial Intelligence</span>
+
         </div>
       </div>
       </Link>
@@ -25,7 +26,7 @@ const Advance = () => {
       <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
         <div><Image src={web3andmetaverse} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
         <div className='px-4 flex justify-center items-center h-[70px]'>
-          <text >Web 3 and Metaverse</text>
+          <span >Web 3 and Metaverse</span>
         </div>
       </div>
       </Link>
@@ -33,7 +34,7 @@ const Advance = () => {
       <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
         <div><Image src={cloudnativecomputing} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
         <div className='px-4 flex justify-center items-center h-[70px]'>
-          <text >Cloud-Native Computing</text>
+          <span >Cloud-Native Computing</span>
         </div>
       </div>
       </Link>
@@ -41,7 +42,7 @@ const Advance = () => {
       <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
         <div><Image src={ambientcomputing} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
         <div className='px-4 flex justify-center items-center h-[70px]'>
-          <text >Ambient Computing and IoT</text>
+          <span >Ambient Computing and IoT</span>
         </div>
       </div>
       </Link>
@@ -49,7 +50,7 @@ const Advance = () => {
       <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
         <div><Image src={genomics} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
         <div className='px-4 flex justify-center items-center h-[70px]'>
-          <text >Genomics and Bioinformatics</text>
+          <span >Genomics and Bioinformatics</span>
         </div>
       </div>
       </Link>
@@ -57,7 +58,7 @@ const Advance = () => {
         <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
         <div><Image src={automation} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
         <div className='px-4 flex justify-center items-center h-[70px]'>
-          <text >Network Programmability and Automation</text>
+          <span >Network Programmability and Automation</span>
         </div>
         </div>
         </Link>

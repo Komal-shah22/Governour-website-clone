@@ -55,7 +55,7 @@ export default class ImagesCaurosel extends Component{
           tital:'presidential launching the PIAIC website'
     
         },
-        ]
+        ];
         const settings = {
             dots:true,
             dotsClass:'slick-dots line-indicator',

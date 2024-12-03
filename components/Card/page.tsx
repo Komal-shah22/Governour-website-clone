@@ -8,7 +8,6 @@ const RegistrationCard = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // Add logic for form submission or result fetching here
     setResult('Registration submitted successfully!');  
   };
 

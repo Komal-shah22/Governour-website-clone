@@ -1,14 +1,16 @@
 import Advance from '@/components/Advance'
 import Compulsary from '@/components/Compulsary'
 import Hero from '@/components/Hero'
-import Text from '@/components/Text'
+import Read from '@/components/Read'
 import React from 'react'
+
+
 
 const Home = () => {
   return (
     <>
      <Hero />
-     <Text />
+     <Read />
      <Compulsary />
      <Advance />
     </>

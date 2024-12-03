@@ -14,7 +14,7 @@ const Compulsary = () => {
         <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
           <div><Image src={programmingFundamentals} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
           <div className='px-4 flex justify-center items-center h-[70px]'>
-            <text >Programming Fundamental</text>
+            <span >Programming Fundamental</span>
           </div>
         </div>
         </Link>
@@ -22,7 +22,7 @@ const Compulsary = () => {
         <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
           <div><Image src={web2usingnextjs} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
           <div className='px-4 flex justify-center items-center h-[70px]'>
-            <text >Programming Fundamental</text>
+            <span >Programming Fundamental</span>
           </div>
         </div>
         </Link>
@@ -30,7 +30,7 @@ const Compulsary = () => {
         <div className='overflow-hidden h-fit box_shadow rounded-lg flex flex-col justify-center items-center text-center text-zinc-600 text-lg font-bold'>
           <div><Image src={Earnasyoulearn} alt='programming fundamental' className='object-cover w-full' height={'300'}/></div>
           <div className='px-4 flex justify-center items-center h-[70px]'>
-            <text >Programming Fundamental</text>
+            <span >Programming Fundamental</span>
           </div>
         </div>
         </Link>

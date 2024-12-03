@@ -1,5 +1,6 @@
 import RegistrationCard from '@/components/Card/page'
-import React from 'react'
+import React from 'react';
+
 
 const page = () => {
   return (

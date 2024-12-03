@@ -4,7 +4,7 @@ import Solo1 from '../../public/1st.png';
 import Solo2 from '../../public/2nd.png';
 import Solo3 from '../../public/3rd.png';
 import Slider from '../Slider';
-const Text = () => {
+const Read = () => {
   return (
     <>
     <div className='xl:w-[1300px] lg:w-[90%] m-auto sm:mt-20 mt-10 border-b border-zinc-300 pb-10'>
@@ -22,4 +22,4 @@ const Text = () => {
   )
 }
 
-export default Text
+export default Read
