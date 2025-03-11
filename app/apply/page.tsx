@@ -27,7 +27,7 @@ const page = () => {
         <div className='mt-10 mb-6 text-center'>
           <p className='text-sm'>
             Already applied?{" "}
-            <Link className='text-main underline hover:text-blue-500 transition-colors' href='#'>
+            <Link className='text-blue-500 font-semibold text-lg underline transition-colors' href='/download '>
               Get Admit Card
             </Link>
           </p>

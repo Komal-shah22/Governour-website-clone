@@ -26,7 +26,7 @@ const RegistrationCard = () => {
               name="registrationNumber"
               value={registrationNumber}
               onChange={(e) => setRegistrationNumber(e.target.value)}
-              className="w-full px-12 py-4 border rounded-lg text-xl focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="bg-slate-100 w-full px-12 py-4 border rounded-lg text-xl focus:outline-none focus:ring-2 focus:ring-blue-500"
               placeholder="Enter your registration number"
               required
             />
@@ -41,7 +41,7 @@ const RegistrationCard = () => {
               name="cnic"
               value={cnic}
               onChange={(e) => setCnic(e.target.value)}
-              className="w-full px-16 py-4 border rounded-lg text-xl focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className=" bg-slate-100 w-full px-16 py-4 border rounded-lg text-xl focus:outline-none focus:ring-2 focus:ring-blue-500"
               placeholder="Enter CNIC or B-Form number"
               required
             />
@@ -62,3 +62,6 @@ const RegistrationCard = () => {
 };
 
 export default RegistrationCard;
+
+
+
